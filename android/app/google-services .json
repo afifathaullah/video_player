@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "885855224200",
+    "project_id": "sopipink-50829",
+    "storage_bucket": "sopipink-50829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885855224200:android:5d820c6b0ed41f1bd53a3d",
+        "android_client_info": {
+          "package_name": "com.example.upload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885855224200-gd9j4p2725ss0qo48rm9ug61d2fkur9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB35bKrKFpza73SKhy4Mlo_Oc44k1AQuLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885855224200-gd9j4p2725ss0qo48rm9ug61d2fkur9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
